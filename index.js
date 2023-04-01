@@ -1,8 +1,8 @@
-let my_name = "Your Full Name";
+let my_name = "Tasnia Turin";
 let name_length = my_name.length;
 console.log(name_length);
 
-let myArray = [3, 5, 9, 7, "ant", "Nure", [4, 5, 9]];
+let myArray = [3, 5, 9, 7, "a", "Nure", [4, 5, 9]];
 let array_length = myArray.length;
 console.log(array_length);
 
